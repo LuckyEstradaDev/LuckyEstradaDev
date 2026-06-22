@@ -3,7 +3,7 @@
 
 <a href="https://portfolio-lucky-estrada.vercel.app/"><img  src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" /></a>
 
-**Full-Stack Developer 💻 | MERN Stack 🟢* 
+**Full-Stack Developer 💻 | MERN Stack 🟢**
 
 <hr></hr>
 
@@ -20,5 +20,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyEstradaDev&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyEstradaDev&theme=react&hide_border=false"> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
